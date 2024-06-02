@@ -10,7 +10,7 @@ My name is Aalekh Roy. This is a non exhaustive lists of things that hardly desc
 - I studied a mix of Liberal Arts and Mathematics till my under grad.
 - I ain't a reader but I read almost everything, everyday.
 - I have a strong inclination toward social theory, philosophy, and music,
-- For work, I am a Data Scinetist@SmartHelio.
+- For work, I am a Data Scientist@SmartHelio.
 
 What else do you need?
 
